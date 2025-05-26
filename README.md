@@ -32,7 +32,7 @@ Este repositorio contiene un **simulador interactivo de un semáforo** y el fluj
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/traffic-light-simulator.git
+git clone https://github.com/G3D-04-PhishX08/traffic-light-simulator.git
 cd traffic-light-simulator
 
 # Crea un entorno virtual (opcional)
